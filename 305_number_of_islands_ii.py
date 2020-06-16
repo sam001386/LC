@@ -1,6 +1,6 @@
 class Solution:
     def numIslands2(self, m: int, n: int, positions: List[List[int]]) -> List[int]:
-        # Union-find by rank and path compression
+        # Union-find by ranking and path compression
         parent, rank = {}, {}
         def find(x):
             while parent[x] != x:

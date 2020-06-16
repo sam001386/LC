@@ -1,4 +1,38 @@
-
+class Solution:
+    def numIslands2(self, m: int, n: int, positions: List[List[int]]) -> List[int]:
+        # Union-find by rank and path compression
+        parent, rank = {}, {}
+        def find(x):
+            while parent[x] != x:
+                parent[x] = x
+            return parent[x]
+        
+        def union(x, y):
+            x, y = find(x), find(y)
+            if x == y:
+                return 0
+            if rank[x] < rank[y]:
+                x, y = y, x
+            parent[y] = x
+            if rank[x] == rank[y]:
+                rank[x] += 1
+            return 1
+     
+        counts, count = [], 0
+        
+        for i, j in positions:
+            if (i, j) in parent:
+                counts.append(count)
+                continue
+            x = parent[x] = i, j
+            rank[x] = 0
+            count += 1
+            for y in (i+1, j), (i-1, j), (i, j+1), (i, j-1):
+                if y in parent:
+                    count -= union(x, y)
+            counts.append(count)
+            
+        return counts
 
 '''
 ###  Wrong approach ###

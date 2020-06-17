@@ -1,14 +1,11 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        # BFS
         # Tricky: how to know there is only one bit difference
         # Approach1: Naive BFS 
         # TLE
         '''
         class Solution:
             def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-                # BFS
-                # Tricky: how to know there is only one bit difference
                 from collections import deque
                 queue = deque()
                 queue.append(beginWord)

@@ -12,7 +12,6 @@ class Solution:
                 for word in wordList:
                     if word not in dic:
                         dic[word] = True
-                print(dic)
                 count = 0
                 while queue:
                     count += 1

@@ -9,7 +9,6 @@ class Solution:
                 from collections import deque
                 queue = deque()
                 queue.append(beginWord)
-                dic = {}
                 for word in wordList:
                     if word not in dic:
                         dic[word] = True

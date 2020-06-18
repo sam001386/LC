@@ -1,3 +1,4 @@
+# Approach 1: search from the empty land
 directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 class Solution:
     def shortestDistance(self, grid: List[List[int]]) -> int:
@@ -6,8 +7,6 @@ class Solution:
         # Time complexity: O(n ^ 4)
         # If empty land << buildings or empty land << buildings: 
         # Time complexity: O(n ^ 3)
-        
-        # Approach 1: search from the empty land
         # Idea: 1. do bfs (O(n^2)) for all "0" (O(n^2))
         #       2. compare the result and find the smallest one
         if len(grid) == 0 or len(grid[0]) == 0:

@@ -24,3 +24,22 @@ class Solution:
                     queue.append(neighbor)
         
         return len(seen) == n
+    
+    
+# Union-Find approach (w/o optimization)
+class Solution:
+    def validTree(self, n: int, edges: List[List[int]]) -> bool:
+        parent = [-1 for _ in range(n)]
+        def find(x):
+            while parent[x] != -1:
+                x = parent[x]
+            return x
+        
+        for e in edges:
+            x = find(e[0])
+            y = find(e[1])
+            if x == y:
+                return False
+            parent[x] = y
+        
+        return len(edges) == n - 1

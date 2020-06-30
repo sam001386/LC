@@ -1,5 +1,6 @@
 ### Good practice for index sorting: 
 ### Time complexity: O(n)
+### Reference: https://github.com/wisdompeak/LeetCode/tree/master/Sort/041.First-Missing-Positive
 
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:

@@ -88,10 +88,10 @@
 Morris中序遍历	501、99
 四叉树	558、427
 
-**十. 图与搜索**\
-题目分类	题目编号\
-10.1.图的构建\
->565.Array Nesting (M)
+**10. Graph and search**
+
+10.1.Build graph
+>[565.Array Nesting (M)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/565.%20Array%20Nesting.py)
 	
 10.2.深度优先搜索	17、397
 

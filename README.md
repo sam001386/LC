@@ -1,4 +1,5 @@
 # Leetcode 题型总结
+主要是前600题的经典题目
 
 参考文献：https://leetcode-cn.com/circle/article/48kq9d/
 
@@ -100,10 +101,9 @@ Morris中序遍历	501、99
 > 39. Combination Sum \
 > 40. Combination Sum II \
 > 46. Permutations \
-> 47. Permutations II 
-> 78. Subsets (M)(high freq)
+> 47. Permutations II \
+> 78. Subsets (M)(high freq) \
 > 90. Subsets II (M)(high freq)
-> 
 
 10.3.DFS/Backtracking -- Medium
 > 526 Beautiful Arrangement (M)(high freq) \
@@ -117,11 +117,9 @@ Morris中序遍历	501、99
 > 556 Next Greater Element III \
 > 60 Permutation Sequence \
 > 491 Increasing Subsequences \
-> 79 Word Search \    
+> 79 Word Search (M)(high freq)  
 > 93 Restore IP Addresses \
 > 332 Reconstruct Itinerary 
-	
-216、31、556、60、491、78、90、79、93、332
 
 10.4.回溯法与表达式	
 241、282、679

@@ -94,14 +94,25 @@ Morris中序遍历	501、99
 >[565.Array Nesting (M)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/565.%20Array%20Nesting.py)
 	
 10.2.DFS/Backtracking -- Easy
->[17. Letter Combinations of a Phone Number (M)(高频)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
-
+>[17. Letter Combinations of a Phone Number (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
 > [397. Integer Replacement](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/397.%20Integer%20Replacement.py)
+> 77. Combinations
+> 39. Combination Sum
+> 40. Combination Sum II
+> 46. Permutations
+> 47. Permutations II
 
 10.3.DFS/Backtracking -- Medium
-> 526. Beautiful Arrangement (M)(高频)
+> 526. Beautiful Arrangement (M)(high freq)
+> 36. Valid Sudoku
+> 37. Sudoku Solver (H)(high freq)
+> 401. Binary Watch
+> 51. N-Queens
+> 52. N-Queens II
+> 216. Combination Sum III
+> 31. Next Permutation
 	
-401、36、37、51、52、77、39、216、40、46、47、31、556、60、491、78、90、79、93、332
+216、31、556、60、491、78、90、79、93、332
 
 10.4.回溯法与表达式	
 241、282、679

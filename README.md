@@ -103,15 +103,14 @@ Morris中序遍历	501、99
 > 47. Permutations II 
 
 10.3.DFS/Backtracking -- Medium
-> 526. Beautiful Arrangement (M)(high freq)
-> 36
-> 36. Valid Sudoku \ 
-> 37. Sudoku Solver (H)(high freq) \
-> 401. Binary Watch \
-> 51. N-Queens \
-> 52. N-Queens II \
-> 216. Combination Sum III \
-> 31. Next Permutation \
+> 526_Beautiful Arrangement (M)(high freq) \
+> 36_Valid Sudoku \
+> 37_Sudoku Solver (H)(high freq)
+> 401_Binary Watch \
+> 51_N-Queens \
+> 52_N-Queens II \
+> 216_Combination Sum III \
+> 31_Next Permutation
 	
 216、31、556、60、491、78、90、79、93、332
 

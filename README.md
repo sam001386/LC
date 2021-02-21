@@ -98,10 +98,10 @@ Morris中序遍历	501、99
 
 > [397. Integer Replacement](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/397.%20Integer%20Replacement.py)
 
+10.3.DFS/Backtracking -- Medium
 > 526. Beautiful Arrangement (M)(高频)
-
-10.3.Backtracking	
-526、401、36、37、51、52、77、39、216、40、46、47、31、556、60、491、78、90、79、93、332
+	
+401、36、37、51、52、77、39、216、40、46、47、31、556、60、491、78、90、79、93、332
 
 10.4.回溯法与表达式	
 241、282、679

@@ -108,7 +108,7 @@ Morris中序遍历	501、99
 10.3.DFS/Backtracking -- Medium
 > 526 Beautiful Arrangement (M)(high freq) \
 > 36 Valid Sudoku \
-> 37 Sudoku Solver (H)(high freq)
+> 37 Sudoku Solver (H)(high freq) \
 > 401 Binary Watch \
 > 51 N-Queens \
 > 52 N-Queens II \

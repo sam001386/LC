@@ -167,8 +167,8 @@ Morris中序遍历	501、99
 树形dp	337、124
 数位dp	233、600
 
-**14. Data structure design**
-14.1 Data structure design——stack and queue \
+**14. Data structure design** \
+14.1 Data structure design——stack and queue 
 >225 \
 >232 \
 >284 \

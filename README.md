@@ -169,12 +169,12 @@ Morris中序遍历	501、99
 
 **14. Data structure design**
 >14.1 Data structure design——stack and queue \
->225 \
+>225. \
 >232 \
 >284 \
 >622 \
 >641 \
->155 \
+>155 
 
 
 数据结构设计——哈希表	676、355、380、381

@@ -98,9 +98,9 @@ Morris中序遍历	501、99
 >[17. Letter Combinations of a Phone Number (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) \
 > [397. Integer Replacement](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/397.%20Integer%20Replacement.py) \
 > [77. Combinations](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/77.combinations.py) \
-> 39. Combination Sum \
+> 39. Combination Sum (M)(high freq) \
 > 40. Combination Sum II \
-> 46. Permutations \
+> 46. Permutations (M)(high freq) \
 > 47. Permutations II \
 > 78. Subsets (M)(high freq) \
 > 90. Subsets II (M)(high freq)

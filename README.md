@@ -6,31 +6,23 @@
 题目分类及刷题顺序推荐
 
 **1.Array** \
-**1.1.Array basics--Traversal**
+**1.1.One-dimensional Array traversal -- Easy**
 >[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
 >495 \
 >414 \
->628 Maximum Product of Three Numbers
-
-**1.2.Array basics -- Counting**
->645、697、448、442、41、274 
-
-**1.3.Array basics -- Move** 
+>628 Maximum Product of Three Numbers\
+>645、697、448、442、41、274\ 
 >453、665、283
 
-**1.4.二维数组及滚动数组**	
->118、119、661、598、419
-
-**1.5.数组的旋转**
->189、396
-
-**1.6.特定顺序遍历二维数组**
->54、59、498
-
-**1.7.二维数组变换**	
+**1.2.Two-dimensional Array -- Easy**	
+>118、119、661、598、419\
+>54、59、498\
 >566、48、73、289
 
-**1.8.Presum**
+**1.3.Arrat rotation**
+>189、396
+
+**1.4.Presum**
 >303、304、238
 
 **2.String**

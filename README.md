@@ -12,7 +12,7 @@
 >414 \
 >628 Maximum Product of Three Numbers\
 >645 Set Mismatch   \
->697\
+>697 Degree of an Array\
 >448\
 >442\
 >41\

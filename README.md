@@ -24,8 +24,8 @@
 **1.2.Two-Dimensional Array -- Easy**	
 >118、119、661、598、419\
 >54、59、498\
->566、48、73、289
->[36 Valid Sudoku](https://github.com/sam001386/LC/blob/master/1.Array/36.%20Valid%20Sudoku.py) \
+>566、48、73、289\
+>[36 Valid Sudoku](https://github.com/sam001386/LC/blob/master/1.Array/36.%20Valid%20Sudoku.py)
 
 **1.3.Array rotation**
 >189、396

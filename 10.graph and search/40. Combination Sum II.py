@@ -11,6 +11,7 @@ class Solution(object):
             for i in range(index, len(A)):
                 if target < 0:
                     continue
+                # remove duplicates
                 if i > 0 and A[i] == A[i - 1] and seen[i - 1] == False:
                     continue
                 seen[i] = True

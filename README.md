@@ -11,7 +11,7 @@
 >495 \
 >414 \
 >628 Maximum Product of Three Numbers\
->645、697、448、442、41、274\ 
+>645、697、448、442、41、274\
 >453、665、283
 
 **1.2.Two-dimensional Array -- Easy**	

@@ -15,22 +15,24 @@
 >697 Degree of an Array\
 >448\
 >442\
->41\
 >274\
 >453\
 >665\
 >283
 
-**1.2.Two-Dimensional Array -- Easy**	
+**1.2.One-Dimensional Array traversal -- Medium/Hard**
+>41
+
+**1.3.Two-Dimensional Array -- Easy**	
 >118、119、661、598、419\
 >54、59、498\
 >566、48、73、289\
 >[36 Valid Sudoku](https://github.com/sam001386/LC/blob/master/1.Array/36.%20Valid%20Sudoku.py)
 
-**1.3.Array rotation**
+**1.4.Array rotation**
 >189、396
 
-**1.4.Presum**
+**1.5.Presum**
 >303、304、238
 
 **2.String**

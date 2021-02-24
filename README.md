@@ -6,7 +6,7 @@
 题目分类及刷题顺序推荐
 
 **1.Array** \
-**1.1.One-dimensional Array traversal -- Easy**
+**1.1.One-Dimensional Array traversal -- Easy**
 >[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
 >495 \
 >414 \
@@ -21,7 +21,7 @@
 >665\
 >283
 
-**1.2.Two-dimensional Array -- Easy**	
+**1.2.Two-Dimensional Array -- Easy**	
 >118、119、661、598、419\
 >54、59、498\
 >566、48、73、289

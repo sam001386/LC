@@ -5,8 +5,8 @@
 
 题目分类及刷题顺序推荐
 
-**1.Array** 
-1.1 Array basics -- Traversal	\
+**1.Array** \
+1.1 Array basics -- Traversal\
 > 485.Max Consecutive Ones \
 > 495 \
 > 414 \

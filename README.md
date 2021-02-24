@@ -7,10 +7,10 @@
 
 **1.Array** \
 **1.1.Array basics--Traversal**
->485.Max Consecutive Ones \
+>[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
 >495 \
 >414 \
->628 Maximum Product of Three Numbers\
+>628 Maximum Product of Three Numbers
 
 **1.2.Array basics -- Counting**
 >645、697、448、442、41、274 

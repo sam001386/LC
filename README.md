@@ -101,7 +101,7 @@ Morris中序遍历	501、99
 > [39. Combination Sum (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/39.Combination%20Sum.py) \
 > [40. Combination Sum II](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/40.%20Combination%20Sum%20II.py) \
 > [46. Permutations (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/46.%20Permutations.py) \
-> 47. Permutations II \
+> [47. Permutations II](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/47.%20Permutations%20II.py) \
 > 78. Subsets (M)(high freq) \
 > 90. Subsets II (M)(high freq)
 

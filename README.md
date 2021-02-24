@@ -25,6 +25,7 @@
 >118、119、661、598、419\
 >54、59、498\
 >566、48、73、289
+>[36 Valid Sudoku](https://github.com/sam001386/LC/blob/master/1.Array/36.%20Valid%20Sudoku.py) \
 
 **1.3.Array rotation**
 >189、396
@@ -124,7 +125,6 @@ Morris中序遍历	501、99
 
 10.3.DFS/Backtracking -- Medium
 > 526 Beautiful Arrangement (M)(high freq) \
-> 36 Valid Sudoku \
 > 37 Sudoku Solver (H)(high freq) \
 > 401 Binary Watch \
 > 51 N-Queens \

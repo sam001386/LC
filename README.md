@@ -1,5 +1,5 @@
 # Leetcode 题型总结
-主要是前600题的经典题目
+主要是前700题的经典题目
 
 参考文献：https://leetcode-cn.com/circle/article/48kq9d/
 

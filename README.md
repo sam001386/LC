@@ -26,7 +26,7 @@
 >54、59、498\
 >566、48、73、289
 
-**1.3.Arrat rotation**
+**1.3.Array rotation**
 >189、396
 
 **1.4.Presum**

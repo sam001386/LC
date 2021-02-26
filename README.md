@@ -21,7 +21,7 @@
 >283
 
 **1.2.One-Dimensional Array traversal -- Medium/Hard**
->41
+>[41.First Missing Positive](https://github.com/sam001386/LC/blob/master/1.Array/41.First%20Missing%20Positive.py)
 
 **1.3.Two-Dimensional Array -- Easy**	
 >118、119、661、598、419\

@@ -131,7 +131,7 @@ Morris中序遍历	501、99
 > 37 Sudoku Solver (H)(high freq) \
 > 51 N-Queens \
 > 52 N-Queens II \
-> 216 Combination Sum III \
+> [216 Combination Sum III](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/216.Combination%20Sum%20III.py) \
 > 31 Next Permutation \
 > 556 Next Greater Element III \
 > 60 Permutation Sequence \

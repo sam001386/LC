@@ -126,7 +126,7 @@ Morris中序遍历	501、99
 > [90. Subsets II (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/90.Subsets%20II.py)
 
 10.3.DFS/Backtracking -- Medium
-> 526 Beautiful Arrangement (M)(high freq) \
+> [526 Beautiful Arrangement (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/526.Beautiful%20Arrangement.py) \
 > 37 Sudoku Solver (H)(high freq) \
 > 401 Binary Watch \
 > 51 N-Queens \

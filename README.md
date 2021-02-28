@@ -136,7 +136,7 @@ Morris中序遍历	501、99
 > 556 Next Greater Element III \
 > [60 Permutation Sequence](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/60.%20Permutation%20Sequence.py) \
 > [491 Increasing Subsequences](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/491%20Increasing%20Subsequences.py) \
-> 79 Word Search (M)(high freq)  
+> [79 Word Search (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/79.%20Word%20Search.py)\
 > 93 Restore IP Addresses \
 > 332 Reconstruct Itinerary 
 

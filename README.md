@@ -134,7 +134,7 @@ Morris中序遍历	501、99
 > [216 Combination Sum III](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/216.Combination%20Sum%20III.py) \
 > 31 Next Permutation \
 > 556 Next Greater Element III \
-> 60 Permutation Sequence \
+> [60 Permutation Sequence](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/60.%20Permutation%20Sequence.py) \
 > 491 Increasing Subsequences \
 > 79 Word Search (M)(high freq)  
 > 93 Restore IP Addresses \

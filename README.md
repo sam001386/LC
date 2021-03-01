@@ -34,7 +34,7 @@
 
 **1.5.Presum**
 >303\
->304.Range Sum Query 2D - Immutable\
+>[304.Range Sum Query 2D - Immutable](https://github.com/sam001386/LC/blob/master/1.Array/304.Range%20Sum%20Query%202D%20-%20Immutable.py)\
 >238
 
 **2.String**

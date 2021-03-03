@@ -5,7 +5,8 @@
 
 题目分类及刷题顺序推荐
 
-**1.Array** \
+**1.Array**
+
 **1.1.One-Dimensional Array traversal -- Easy**
 >[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
 >495 \
@@ -47,7 +48,8 @@
 >[304.Range Sum Query 2D - Immutable](https://github.com/sam001386/LC/blob/master/1.Array/304.Range%20Sum%20Query%202D%20-%20Immutable.py)\
 >238
 
-**2.String**\
+**2.String**
+
 **2.1.字符**
 >520
 
@@ -159,11 +161,21 @@
 >385、341、394
 
 **5. Linked list**
->链表的删除	203、237、19\
->链表的遍历	430\
->链表的旋转与反转	61、24、206、92、25\
->链表高精度加法	2、445\
->链表的合并	21、23
+
+**5.1.链表的删除**
+>203、237、19
+
+**5.2.链表的遍历**
+>430
+
+**5.3.链表的旋转与反转**
+>61、24、206、92、25
+
+**5.4.链表高精度加法**
+>2、445
+
+**5.5.链表的合并**
+>21、23
 
 **6.Hash table/Dictionary**
 >哈希表的查找、插入及删除	217、633、349、128、202、500、290、532、205、166、466、138\

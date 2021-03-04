@@ -295,8 +295,8 @@
 >540\
 >275\
 >436\
->300\
->354\
+>300.Longest Increasing Subsequence\
+>354.Russian Doll Envelopes\
 >658\
 >162\
 >4

@@ -296,7 +296,7 @@
 >275\
 >436\
 >[300.Longest Increasing Subsequence](https://github.com/sam001386/LC/blob/master/11.%20Binary%20search/300.Longest%20Increasing%20Subsequence.py)\
->354.Russian Doll Envelopes\
+>[354.Russian Doll Envelopes](https://github.com/sam001386/LC/blob/master/11.%20Binary%20search/354.Russian%20Doll%20Envelopes.py)\
 >658\
 >162\
 >4

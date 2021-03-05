@@ -201,7 +201,7 @@
 **8.3.分段双指针**
 >86\
 >328\
->160.Intersection of Two Linked Lists\
+>[160.Intersection of Two Linked Lists](https://github.com/sam001386/LC/blob/master/8.%20Two%20pointers/160.Intersection%20of%20Two%20Linked%20Lists.py)\
 >88\
 >475
 

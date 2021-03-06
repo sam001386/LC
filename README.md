@@ -198,8 +198,8 @@
 >343
 
 **7.5.单调栈、单调队列**
->496\
->503\
+>[496.Next Greater Element I](https://github.com/sam001386/LC/blob/master/7.Greedy/496.Next%20Greater%20Element%20I.py)\
+>[503.Next Greater Element II](https://github.com/sam001386/LC/blob/master/7.Greedy/503.Next%20Greater%20Element%20II.py)\
 >456\
 >316\
 >402\

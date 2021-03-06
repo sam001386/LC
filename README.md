@@ -312,10 +312,10 @@
 
 **10. Graph and search**
 
-10.1.Build graph
+**10.1.Build graph**
 >[565.Array Nesting (M)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/565.%20Array%20Nesting.py)
 	
-10.2.DFS/Backtracking -- Easy
+**10.2.DFS/Backtracking -- Easy**
 >[17. Letter Combinations of a Phone Number (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) \
 > [397. Integer Replacement](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/397.%20Integer%20Replacement.py) \
 > [77. Combinations](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/77.combinations.py) \
@@ -327,7 +327,7 @@
 > [90. Subsets II (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/90.Subsets%20II.py) \
 > 401 Binary Watch
 
-10.3.DFS/Backtracking -- Medium
+**10.3.DFS/Backtracking -- Medium**
 > [526 Beautiful Arrangement (M)(high freq)](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/526.Beautiful%20Arrangement.py) \
 > 37 Sudoku Solver (H)(high freq) \
 > 51 N-Queens \
@@ -341,19 +341,19 @@
 > 93 Restore IP Addresses \
 > 332 Reconstruct Itinerary 
 
-10.4.回溯法与表达式
+**10.4.回溯法与表达式**
 > 241\
 > 282\
 > 679
 
-10.5.回溯法与括号
+**10.5.回溯法与括号**
 > 22\
 > 301
 
-10.6.回溯法与贪心
+**10.6.回溯法与贪心**
 > 488
 
-10.7.BFS
+**10.7.BFS**
 > 133\
 > 200\
 > 695\
@@ -367,17 +367,17 @@
 > 433\
 > 675
 
-10.8.Union find(并查集)
+**10.8.Union find(并查集)**
 > 547\
 > 684\
 > 685
 
-10.9.Topology sorting（拓扑排序）
+**10.9.Topology sorting（拓扑排序**
 > 399\
 > 207\
 > 210
 
-10.10.有限状态自动机
+**10.10.有限状态自动机**
 > 65\
 > 468
 

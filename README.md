@@ -70,18 +70,18 @@
 >151.Reverse Words in a String(high freq)
 
 **2.6.字符的统计**
->387.\
->389.\
->383.\
->242.\
->49.\
->451.\
->423.\
->657.\
->551.\
->696.\
->467.\
->535.
+>387.First Unique Character in a String\
+>389.Find the Difference\
+>383.Ransom Note\
+>242.Valid Anagram\
+>49.Group Anagrams(high freq)\
+>451.Sort Characters By Frequency\
+>423.Reconstruct Original Digits from English\
+>657.Robot Return to Origin\
+>551.Student Attendance Record I\
+>696.Count Binary Substrings\
+>467.Unique Substrings in Wraparound String\
+>535.Encode and Decode TinyURL(high freq)
 
 **2.7.数字与字符串间转换**
 >299\

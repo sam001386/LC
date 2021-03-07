@@ -120,27 +120,27 @@
 >68.Text Justification(high freq)
 
 **2.11.字符串匹配**
->28.\
->686.\
->459.\
->214.
+>28.Implement strStr()\
+>686.Repeated String Match\
+>459.Repeated Substring Pattern\
+>214.Shortest Palindrome
 
 **2.12.中心拓展法**
->5.\
->647.
+>5.Longest Palindromic Substring\
+>647.Palindromic Substrings
 
 **3.Bitwise operation**
 
 **3.1.数字的位操作**
->7.\
->9.\
->479.\
->564.\
->231.\
->342.\
->326.\
->504.\
->263.\
+>7.Reverse Integer\
+>9.Palindrome Number\
+>479.Largest Palindrome Product\
+>564.Find the Closest Palindrome(high freq)\
+>231.Power of Two\
+>342.Power of Four \
+>326.Power of Three\
+>504.Base 7\
+>263.Ugly Number\
 >190.\
 >191.\
 >476.\

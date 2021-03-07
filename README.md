@@ -296,28 +296,28 @@
 >420.Strong Password Checker(high freq)
 
 **7.2.子数组与贪心算法**	
->53\
->134\
->581\
->152
+>53.Maximum Subarray(high freq)\
+>134.Gas Station(high freq)\
+>581.Shortest Unsorted Continuous Subarray\
+>152.Maximum Product Subarray(high freq)
 
 **7.3.子序列与贪心算法**
->334\
->376\
->659
+>334.Increasing Triplet Subsequence\
+>376.Wiggle Subsequence\
+>659.Split Array into Consecutive Subsequences
 
 **7.4.数字与贪心**
->343
+>343.Integer Break
 
 **7.5.单调栈、单调队列**
 >[496.Next Greater Element I](https://github.com/sam001386/LC/blob/master/7.Greedy/496.Next%20Greater%20Element%20I.py)\
 >[503.Next Greater Element II](https://github.com/sam001386/LC/blob/master/7.Greedy/503.Next%20Greater%20Element%20II.py)\
->456\
->316\
->402\
->321\
->84\
->85
+>456.132 Pattern\
+>316.Remove Duplicate Letters\
+>402.Remove K Digits\
+>321.Create Maximum Number\
+>84.Largest Rectangle in Histogram\
+>85.Maximal Rectangle
 
 **8. Two pointers**
 

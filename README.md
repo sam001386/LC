@@ -9,17 +9,17 @@
 
 **1.1.One-Dimensional Array traversal -- Easy**
 >[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
->495 \
->414 \
->628 Maximum Product of Three Numbers\
->645 Set Mismatch   \
->697 Degree of an Array\
->448\
->442\
->274\
->453\
->665\
->283
+>495.Teemo Attacking\
+>414.Third Maximum Number\
+>628.Maximum Product of Three Numbers\
+>645.Set Mismatch\
+>697.Degree of an Array\
+>448.Find All Numbers Disappeared in an Array\
+>442.Find All Duplicates in an Array\
+>274.H-Index\
+>453.Minimum Moves to Equal Array Elements\
+>665.Non-decreasing Array\
+>283.Move Zeroes
 
 **1.2.One-Dimensional Array traversal -- Medium/Hard**
 >[41.First Missing Positive](https://github.com/sam001386/LC/blob/master/1.Array/41.First%20Missing%20Positive.py)

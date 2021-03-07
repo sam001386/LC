@@ -207,93 +207,93 @@
 **5. Linked list**
 
 **5.1.链表的删除**
->203.\
->237.\
->19.
+>203.Remove Linked List Elements(high freq)\
+>237.Delete Node in a Linked List\
+>19.Remove Nth Node From End of List
 
 **5.2.链表的遍历**
->430.
+>430.Flatten a Multilevel Doubly Linked List
 
 **5.3.链表的旋转与反转**
->61.\
->24.\
->206.\
->92.\
->25.
+>61.Rotate List\
+>24.Swap Nodes in Pairs\
+>206.Reverse Linked List \
+>92.Reverse Linked List II\
+>25.Reverse Nodes in k-Group(high freq)
 
 **5.4.链表高精度加法**
->2.\
->445.
+>2.Add Two Numbers(high freq)\
+>445.Add Two Numbers II(high freq)
 
 **5.5.链表的合并**
->21.\
->23.
+>21.Merge Two Sorted Lists\
+>23.Merge k Sorted Lists
 
 **6.Hash table/Dictionary**
 
 **6.1.哈希表的查找、插入及删除**
->217.\
->633.\
->349.\
->128.\
->202.\
->500.\
->290.\
->532.\
->205.\
->166.\
->466.\
->138.
+>217.Contains Duplicate\
+>633.Sum of Square Numbers\
+>349.Intersection of Two Arrays\
+>128.Longest Consecutive Sequence(high freq)\
+>202.Happy Number(high freq)\
+>500.Keyboard Row\
+>290.Word Pattern\
+>532.K-diff Pairs in an Array(high freq)\
+>205.Isomorphic Strings\
+>166.Fraction to Recurring Decimal\
+>466.Count The Repetitions\
+>138.Copy List with Random Pointer
 
 **6.2.哈希表与索引**
->1.\
->167.\
->599.\
->219.\
->220.
+>1.Two Sum\
+>167.Two Sum II - Input array is sorted\
+>599.Minimum Index Sum of Two Lists\
+>219.Contains Duplicate II\
+>220.Contains Duplicate III
 
 **6.3.哈希表与统计**
->594.\
->350.\
->554.\
->609.\
->454.\
->18.
+>594.Longest Harmonious Subsequence\
+>350.Intersection of Two Arrays II\
+>554.Brick Wall\
+>609.Find Duplicate File in System\
+>454.4Sum II\
+>18.4Sum
 
 **6.4.哈希表与前缀和**
->560.\
->523.\
->525.
+>560.Subarray Sum Equals K(high freq)\
+>523.Continuous Subarray Sum\
+>525.Contiguous Array 
 
 **7. Greedy**
 
 **7.1.数组与贪心算法**	
->605.\
->121.\
->122.\
->561.\
->455.\
->575.\
->135.\
->409.\
->621.\
->179.\
->56.\
->57.\
->228.\
->452.\
->435.\
->646.\
->406.\
->48.\
->169.\
->215.\
->75.\
->324.\
->517.\
->649.\
->678.\
->420.
+>605.Can Place Flowers\
+>121.Best Time to Buy and Sell Stock \
+>122.Best Time to Buy and Sell Stock II(high freq)\
+>561.Array Partition I\
+>455.Assign Cookies\
+>575.Distribute Candies\
+>135.Candy(high freq)\
+>409.Longest Palindrome\
+>621.Task Scheduler\
+>179.Largest Number\
+>56.Merge Intervals\
+>57.Insert Interval\
+>228.Summary Ranges\
+>452.Minimum Number of Arrows to Burst Balloons\
+>435.Non-overlapping Intervals\
+>646.Maximum Length of Pair Chain\
+>406.Queue Reconstruction by Height\
+>48.Rotate Image(high freq)\
+>169.Majority Element(high freq)\
+>215.Kth Largest Element in an Array(high freq)\
+>75.Sort Colors\
+>324.Wiggle Sort II\
+>517.Super Washing Machines\
+>649.Dota2 Senate\
+>678.Valid Parenthesis String\
+>420.Strong Password Checker(high freq)
 
 **7.2.子数组与贪心算法**	
 >53\

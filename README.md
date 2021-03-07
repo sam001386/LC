@@ -620,8 +620,8 @@
 >97\
 >115\
 >516\
->132\
->131\
+>132.Palindrome Partitioning II\
+>131.Palindrome Partitioning\
 >139\
 >140\
 >514\

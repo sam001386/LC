@@ -85,39 +85,39 @@
 
 **2.7.数字与字符串间转换**
 >299.Bulls and Cows\
->412.\
->506.\
->539.\
->553.\
->537.\
->592.\
->640.\
->38.\
->443.\
->8.\
->13.\
->12.\
->273.\
->165.\
->481.
+>412.Fizz Buzz(high freq)\
+>506.Relative Ranks\
+>539.Minimum Time Difference(high freq)\
+>553.Optimal Division\
+>537.Complex Number Multiplication\
+>592.Fraction Addition and Subtraction\
+>640.Solve the Equation\
+>38.Count and Say(high freq)\
+>443.String Compression(high freq)\
+>8.String to Integer (atoi)(high freq)\
+>13.Roman to Integer(high freq)\
+>12.Integer to Roman(high freq)\
+>273.Integer to English Words(high freq)\
+>165.Compare Version Numbers\
+>481.Magical String
 
 **2.8.子序列**
->392.\
->524.\
->521.\
->522.
+>392.Is Subsequence\
+>524.Longest Word in Dictionary through Deleting\
+>521.Longest Uncommon Subsequence I\
+>522.Longest Uncommon Subsequence II
 
 **2.9.高精度运算**
->66.\
->67.\
->415.\
->43.\
->306.
+>66.Plus One\
+>67.Add Binary(high freq)\
+>415.Add Strings(high freq)\
+>43.Multiply Strings(high freq)\
+>306.Additive Number
 
 **2.10.字符串变换**
->482.\
->6.\
->68.
+>482.License Key Formatting\
+>6.ZigZag Conversion(high freq)\
+>68.Text Justification(high freq)
 
 **2.11.字符串匹配**
 >28.\

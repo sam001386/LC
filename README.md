@@ -25,63 +25,63 @@
 >[41.First Missing Positive](https://github.com/sam001386/LC/blob/master/1.Array/41.First%20Missing%20Positive.py)
 
 **1.3.Two-Dimensional Array -- Easy**	
->118\
->119\
->661\
->598\
->419\
->54\
->59\
->498\
->566\
->48\
->73\
->289\
+>118.Pascal's Triangle\
+>119.Pascal's Triangle II\
+>661.Image Smoother\
+>598.Range Addition II\
+>419.Battleships in a Board\
+>54.Spiral Matrix\
+>59.Spiral Matrix II\
+>498.Diagonal Traverse\
+>566.Reshape the Matrix\
+>48.Rotate Image\
+>73.Set Matrix Zeroes\
+>289.Game of Life\
 >[36 Valid Sudoku](https://github.com/sam001386/LC/blob/master/1.Array/36.%20Valid%20Sudoku.py)
 
 **1.4.Array rotation**
->189\
->396
+>189.Rotate Array\
+>396.Rotate Function
 
 **1.5.Presum**
->303\
+>303.Range Sum Query - Immutable\
 >[304.Range Sum Query 2D - Immutable](https://github.com/sam001386/LC/blob/master/1.Array/304.Range%20Sum%20Query%202D%20-%20Immutable.py)\
->238
+>238.Product of Array Except Self
 
 **2.String**
 
 **2.1.字符**
->520
+>520.Detect Capital
 
 **2.2.回文串的定义**
->125
+>125.Valid Palindrome(high freq)
 
 **2.3.Common Prefix**
 >14.Longest Common Prefix
 
 **2.4.单词**
->434\
->58
+>434.Number of Segments in a String\
+>58.Length of Last Word
 
 **2.5.字符串的反转**
->344\
->541\
->557\
->151
+>344.Reverse String(high freq)\
+>541.Reverse String II\
+>557.Reverse Words in a String III\
+>151.Reverse Words in a String(high freq)
 
 **2.6.字符的统计**
->387\
->389\
->383\
->242\
->49\
->451\
->423\
->657\
->551\
->696\
->467\
->535
+>387.\
+>389.\
+>383.\
+>242.\
+>49.\
+>451.\
+>423.\
+>657.\
+>551.\
+>696.\
+>467.\
+>535.
 
 **2.7.数字与字符串间转换**
 >299\

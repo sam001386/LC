@@ -141,68 +141,68 @@
 >326.Power of Three\
 >504.Base 7\
 >263.Ugly Number\
->190.\
->191.\
->476.\
->461.\
->477.\
->693.\
->393.\
->172.\
->458.\
->258.\
->319.\
->405.\
->171.\
->168.\
->670.\
->233.\
->357.\
->400.
+>190.Reverse Bits\
+>191.Number of 1 Bits\
+>476.Number Complement\
+>461.Hamming Distance\
+>477.Total Hamming Distance\
+>693.Binary Number with Alternating Bits\
+>393.UTF-8 Validation\
+>172.Factorial Trailing Zeroes\
+>458.Poor Pigs\
+>258.Add Digits\
+>319.Bulb Switcher\
+>405.Convert a Number to Hexadecimal\
+>171.Excel Sheet Column Number\
+>168.Excel Sheet Column Title\
+>670.Maximum Swap\
+>233.Number of Digit One\
+>357.Count Numbers with Unique Digits\
+>400.Nth Digit
 
 **3.2.简单数学题**
->492.\
->29.\
->507.
+>492.Construct the Rectangle\
+>29.Divide Two Integers\
+>507.Perfect Number
 
 **3.3.快速幂**
->50.\
->372.
+>50.Pow(x, n)(high freq)\
+>372.Super Pow
 
 **3.4.异或的应用**
->89.\
->136.\
->137.\
->260.\
->268.
+>89.Gray Code\
+>136.Single Number\
+>137.Single Number II\
+>260.Single Number III\
+>268.Missing Number
 
 **3.5与或非的应用**
->371.\
->318.\
->201.
+>371.Sum of Two Integers\
+>318.Maximum Product of Word Lengths\
+>201.Bitwise AND of Numbers Range
 
 **4.Stack and recursion**
 
 **4.1.用栈访问最后若干元素**
->682.\
->71.\
->388.
+>682.Baseball Game\
+>71.Simplify Path\
+>388.Longest Absolute File Path(high freq)
 
 **4.2.栈与计算器**
->150.\
->227.\
->224.
+>150.Evaluate Reverse Polish Notation\
+>227.Basic Calculator II(high freq)\
+>224.Basic Calculator(high freq)
 
 **4.3.栈与括号匹配**	
->20.\
->636.\
->591.\
->32.
+>20.Valid Parentheses(high freq)\
+>636.Exclusive Time of Functions(high freq)\
+>591.Tag Validator\
+>32.Longest Valid Parentheses
 
 **4.4.递归**
->385.\
->341.\
->394.
+>385.Mini Parser\
+>341.Flatten Nested List Iterator(high freq)\
+>394.Decode String(high freq)
 
 **5. Linked list**
 

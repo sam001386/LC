@@ -322,14 +322,15 @@
 **8. Two pointers**
 
 **8.1.头尾指针**
->345\
->680\
->167\
->15\
->16\
->18\
->11\
->42
+>15.3Sum(high freq)\
+>16.3Sum Closest(high freq)\
+>11.Container With Most Water(high freq)\
+>42.Trapping Rain Water(high freq)\
+>680.Valid Palindrome II(high freq)\
+>18.4Sum\
+>167.Two Sum II - Input array is sorted\
+>345.Reverse Vowels of a String
+
 
 **8.2.同向双指针、滑动窗口**
 >27\

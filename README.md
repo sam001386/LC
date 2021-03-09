@@ -358,12 +358,12 @@
 >475.Heaters
 
 **8.4.快慢指针**
->141.\
->142.\
->143.\
->234.\
->457.\
->287.
+>141.Linked List Cycle \
+>142.Linked List Cycle II\
+>143.Reorder List(high freq)\
+>234.Palindrome Linked List(high freq)\
+>457.Circular Array Loop\
+>287.Find the Duplicate Number(high freq)
 
 **9. Trees**
 

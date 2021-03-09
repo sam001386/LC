@@ -368,19 +368,19 @@
 **9. Trees**
 
 **9.1.树与递归**
->100.\
->222.\
->101.\
->226.\
->437.\
->563.\
->617.\
->508.\
->572.\
->543.\
->654.\
->687.\
->87.
+>100.Same Tree\
+>222.Count Complete Tree Nodes\
+>101.Symmetric Tree(high freq)\
+>226.Invert Binary Tree(high freq)\
+>437.Path Sum III\
+>563.Binary Tree Tilt\
+>617.Merge Two Binary Trees\
+>508.Most Frequent Subtree Sum\
+>572.Subtree of Another Tree(high freq)\
+>543.Diameter of Binary Tree(high freq)\
+>654.Maximum Binary Tree\
+>687.Longest Univalue Path\
+>87.Scramble String
 
 **9.2.树的层次遍历**
 >102.\

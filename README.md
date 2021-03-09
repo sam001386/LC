@@ -333,22 +333,22 @@
 
 
 **8.2.同向双指针、滑动窗口**
->27\
->26\
->80\
->83\
->82\
->611\
->187\
->643\
->674\
->209\
->3\
->438\
->567\
->424\
->76\
->30
+>3.Longest Substring Without Repeating Characters(high freq)\
+>76.Minimum Window Substring(high freq)\
+>209.Minimum Size Subarray Sum(high freq)\
+>438.Find All Anagrams in a String(high freq)\
+>27.Remove Element\
+>26.Remove Duplicates from Sorted Array\
+>80.Remove Duplicates from Sorted Array II\
+>83.Remove Duplicates from Sorted List\
+>82.Remove Duplicates from Sorted List II\
+>611.Valid Triangle Number\
+>187.Repeated DNA Sequences \
+>643.Maximum Average Subarray I\
+>674.Longest Continuous Increasing Subsequence\
+>567.Permutation in String\
+>424.Longest Repeating Character Replacement\
+>30Substring with Concatenation of All Words
 
 **8.3.分段双指针**
 >86\

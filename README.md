@@ -582,7 +582,7 @@
 > 198.\
 > 213.\
 > 650.\
-> 91.Decode Ways\
+> 91.[Decode Ways](https://github.com/sam001386/LC/blob/master/12.%20Dynamic%20programming/91.%20Decode%20Ways.py)\
 > 639.Decode Ways II\
 > 552.\
 > 123.\

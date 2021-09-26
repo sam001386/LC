@@ -1,3 +1,8 @@
+
+# The following approach can pass all the 217/217 test cases, 
+# But still TLE in Python because of constant time limitation, 
+# The OJ should have a little larger data size for this question 
+
 class Solution(object):
     def numDecodings(self, s):
         dp = [0 for _ in range(len(s)+1)]

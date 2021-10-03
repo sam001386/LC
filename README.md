@@ -115,7 +115,7 @@
 >306.Additive Number
 
 **2.10.字符串变换**
->482.License Key Formatting\
+>[482.License Key Formatting](https://github.com/sam001386/LC/blob/master/2.String/482.%20License%20Key%20Formatting.py)\
 >6.ZigZag Conversion(high freq)\
 >68.Text Justification(high freq)
 

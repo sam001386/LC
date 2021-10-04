@@ -3,9 +3,9 @@ class Solution(object):
         real_string = []
         res = []
         
-        for i in range(len(s)):
-            if s[i] != "-":
-                real_string.append(s[i].upper())
+        for index in range(len(s)):
+            if s[index] != "-":
+                real_string.append(s[index].upper())
 
         remain = len(real_string) % k
         cnt = len(real_string) // k

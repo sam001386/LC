@@ -662,7 +662,7 @@
 **13.1 Data structure design——stack and queue**
 >225.\
 >232.\
->(284.Peeking Iterator)[https://github.com/sam001386/LC/blob/master/13.data%20structure%20design/284.%20Peeking%20Iterator.py]
+>[284.Peeking Iterator](https://github.com/sam001386/LC/blob/master/13.data%20structure%20design/284.%20Peeking%20Iterator.py)
 >622.\
 >641.\
 >155.

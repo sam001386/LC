@@ -10,7 +10,7 @@
 **1.1.One-Dimensional Array traversal -- Easy**
 >[485.Max Consecutive Ones](https://github.com/sam001386/LC/blob/master/1.Array/485_Max%20Consecutive%20Ones.py) \
 >495.Teemo Attacking\
->414.Third Maximum Number\
+>[414.Third Maximum Number](https://github.com/sam001386/LC/blob/master/1.Array/414.%20Third%20Maximum%20Number.py)\
 >628.Maximum Product of Three Numbers\
 >645.Set Mismatch\
 >697.Degree of an Array\

@@ -494,7 +494,7 @@
 > 679.
 
 **10.5.Backtracking**
-> [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)\
+> [22.Generate Parentheses](https://github.com/sam001386/LC/blob/master/10.graph%20and%20search/22.Generate%20Parentheses.py/)\
 > 301.
 
 **10.6.回溯法与贪心**

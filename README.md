@@ -493,8 +493,8 @@
 > 282.\
 > 679.
 
-**10.5.回溯法与括号**
-> 22.\
+**10.5.Backtracking**
+> [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)\
 > 301.
 
 **10.6.回溯法与贪心**
